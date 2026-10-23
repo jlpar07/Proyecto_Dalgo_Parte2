@@ -44,10 +44,16 @@ public class ProblemaP2 {
         return permutacion;
     }
 
-    private static int numeroComponentes(int[] permutacion) {
+    private static int numeroComponentes(int[] permutacion) {  //aqui iria la solucion del problema, que es contar el numero de componentes de la permutacion
+        // posible solución
         int componentes = 0;
         int maxVisto = 0;
         for (int i = 0; i < permutacion.length; i++){
+            maxVisto = Math.max(maxVisto, permutacion[i]);
+            if (maxVisto == i + 1){
+                componentes++;
+            }
+
 
         }
         return componentes;
