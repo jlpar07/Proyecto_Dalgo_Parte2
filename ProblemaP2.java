@@ -45,7 +45,11 @@ public class ProblemaP2 {
     }
 
     private static int numeroComponentes(int[] permutacion) {
-        // TODO: Implementar el algoritmo del problema.
-        return 0;
+        int componentes = 0;
+        int maxVisto = 0;
+        for (int i = 0; i < permutacion.length; i++){
+
+        }
+        return componentes;
     }
 }
