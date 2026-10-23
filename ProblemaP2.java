@@ -1,5 +1,5 @@
 /*
- * Autores: [Escriba aqui los nombres de los autores]
+ * Autores: Yeiner Ibarguen, Jose Luis Parra
  */
 
 import java.io.BufferedReader;
