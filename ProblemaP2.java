@@ -1,5 +1,6 @@
 /*
- * Autores: Yeiner Ibarguen, Jose Luis Parra
+ * Autores: Yeiner Ibarguen y Jose Luis Parra
+ * Diseño de Algoritmos: Proyecto Parte 2(permutaciones)
  */
 
 import java.io.BufferedReader;
